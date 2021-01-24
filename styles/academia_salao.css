@@ -1,0 +1,71 @@
+body{
+    background-color:#90822f;
+}
+#top{
+    width: 100%;
+    height: 50px;
+    background-color: rgb(92, 67, 28);
+}
+
+#container{
+    width: 100%;
+    background-color:#90822f;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+}
+#center{
+    margin-top: 40px;
+    width: 520px;
+    height: auto;
+    padding-top: 10px;
+    background-color: rgb(92, 67, 28);
+    text-align: center;
+}
+
+#form_main{
+    margin-top: -20px;
+}
+.text{
+    font-size: 50px;
+    margin-top: 5px;
+    font-family: 'Roboto', sans-serif;
+}
+input{
+    display: inline-block;
+    margin: 5px;
+    font-size: 25px;
+}
+label{
+    font-family: 'Roboto', sans-serif ;
+    display: block;
+    font-size: 20px;
+   
+}
+label, p{
+    color: white;
+}
+.button{
+    margin: 20px 0;
+    height: 50px;
+    width: 150px;
+    border-radius: 10px;
+    background-color:#90822f;
+    border-color: black;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.tamanho{
+    height: 40px;
+    width: 250px;
+}
+
+.teste{
+    width: 150px;
+}
+.proximo{
+    margin-top: 0;
+    margin-bottom: 5px;
+}
