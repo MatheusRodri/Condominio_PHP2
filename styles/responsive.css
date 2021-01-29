@@ -1,0 +1,14 @@
+@media screen and (max-width: 400px){
+    body{
+        display: block;
+    }
+    .carrosel{
+        margin: 100px auto;
+    }
+    .carrosel, img{
+        width: 320px;
+        height: 500px;
+    }
+}
+
+

@@ -14,6 +14,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&display=swap" rel="stylesheet">
     <link href="./styles/tipografico.css" rel="stylesheet">
     <link href="./styles/stylegeral.css" rel="stylesheet">
+    <link href="./styles/responsiveMenu.css" rel="stylesheet">
     <title> Visão Geral</title>
 </head>
 <body>

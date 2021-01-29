@@ -88,3 +88,8 @@ input{
 p{
     color: white;
 }
+footer{
+    height: 50px;
+    width: 100%;
+    background: rgb(92, 67, 28) ;
+}

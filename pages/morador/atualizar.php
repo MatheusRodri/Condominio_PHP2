@@ -2,10 +2,11 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Adicionar Morador</title>
+    <title>Atualizar Morador</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="../styles/tipografico.css" media="screen">
     <link rel="stylesheet" href="../styles/morador.css" media="screen">
-    <script rel="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <link rel="stylesheet" href="../styles/responsiveaAddUp.css" media="screen">
 </head>
 <body>
     <header>
@@ -15,9 +16,9 @@
         <div id="container">
             <div class="center">
               <form action=' ' method="post" class="meio">
-                  <label>
-                      Pesquisar  <input name="nome" type="text">
-                      <button type="submit">Enviar</button>
+                  <label id="label_pesquisa">
+                      Pesquisar  <input  id="input_pesquisa" name="nome" type="text"><br>
+                      <button id="button_pesquisa" type="submit">Enviar</button>
                   </label>
               </form>
                 <?php
@@ -99,7 +100,7 @@
                 <?php
                 echo "<form action='../../php/morador/updatemorador.php' method='post'>
                    <input type='hidden' name='id_morador' value='".$id."'>
-                <div  class='row, padding'>
+                <div  class='row'>
                 <div class='column-3 column label'>
                     <label for='txtNome'>Nome do Morador</label>
                 </div>
@@ -156,7 +157,7 @@
                 </div>
             </div>
             <div class='centerbutton'>
-                <button STYLE=' width: 300px;' class='button' type='submit'>ALTERAR O MORADOR</button>
+                <button class='button' type='submit'>ALTERAR O MORADOR</button>
             </div>
             </form>";
                 ?>
@@ -164,7 +165,7 @@
                 <div class='centerbutton'>
                     <form method='post' action='../../php/morador/deleteMorador.php'>
                         <input type='hidden' name='id_morador' value='".$id."'>
-                        <button  width: 300px;' class='button' type='submit'>DELETAR O MORADOR</button>
+                        <button class='button' type='submit'>DELETAR O MORADOR</button>
                     </form>
                 </div>
                 ";?>
