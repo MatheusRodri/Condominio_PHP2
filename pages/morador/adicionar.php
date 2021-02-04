@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <title>Adicionar Morador</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="../styles/tipografico.css" media="screen">
+    <link rel="stylesheet" href="../styles/tipografico.css">
     <link rel="stylesheet" href="../styles/morador.css">
     <link rel="stylesheet" href="../styles/responsiveaAddUp.css" media="screen">
 </head>

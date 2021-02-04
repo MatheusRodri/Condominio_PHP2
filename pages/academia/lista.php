@@ -4,8 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="../styles/view.css">
-    <link href="../styles/tipografico.css" rel="stylesheet">
+    <link rel="stylesheet" href="../styles/view.css" media="screen">
+    <link href="../styles/tipografico.css" rel="stylesheet" media="screen">
     <title>Agendamentos</title>
     <style>
         #table-morador tr:hover td{

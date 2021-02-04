@@ -1,4 +1,4 @@
-@media screen and (max-width: 400px){
+@media only screen and (max-width: 500px){
     body{
         display: block;
     }
@@ -8,6 +8,7 @@
     .carrosel, img{
         width: 320px;
         height: 500px;
+
     }
 }
 

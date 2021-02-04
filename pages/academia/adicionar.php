@@ -7,8 +7,8 @@ session_start();
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&display=swap" rel="stylesheet">
-    <link href="../styles/academia_salao.css" rel="stylesheet">
-    <link href="../styles/tipografico.css" rel="stylesheet">
+    <link href="../styles/academia_salao.css" rel="stylesheet" media="screen">
+    <link href="../styles/tipografico.css" rel="stylesheet" media="screen">
     <title> Visão Geral</title>
 </head>
 <body>
