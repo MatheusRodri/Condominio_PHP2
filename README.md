@@ -1,4 +1,4 @@
-# Condominio_PHP2 
+# Condominio_PHP
 
 Esse site foi desenvolvido para condominios,com cadastro de moradores, agendamento de academia e salão, todas essas opções são possiveis alterar e remover. 
 
@@ -8,7 +8,7 @@ Mudanças adicionadas:
   - Responsidade da tela, ou seja as paginas elas se adequam ao tamanho da tela (ex: Notebook, celular ou TV)
  
  Opções a serem adicionadas:
-   -Envio de email;<br/> 
-   -Correção de bug;
+   - Envio de email;
+   - Correção de bug;
   
   Esse site continua em desenvolvimento porém de forma bem reduzida.
