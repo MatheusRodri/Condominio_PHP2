@@ -8,7 +8,7 @@ Mudanças adicionadas:
   - Responsidade da tela, ou seja as paginas elas se adequam ao tamanho da tela (ex: Notebook, celular ou TV)
  
  Opções a serem adicionadas:
-   -Envio de email; 
+   -Envio de email;<br/> 
    -Correção de bug;
   
   Esse site continua em desenvolvimento porém de forma bem reduzida.
